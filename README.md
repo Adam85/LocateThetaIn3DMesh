@@ -72,7 +72,9 @@ One can notice that the implemented jump-and-walk algorithm achieves 149 acceler
 References
 -----------
 [1] Devillers, Olivier, Sylvain Pion, and Monique Teillaud. "Walking in a triangulation." International Journal of Foundations of Computer Science 13.02 (2002): 181-199.
+
 [2] Soukal, Roman. "Walking location algorithms: technical report no. DCSE/TR-2010-03." (2010).
+
 [3] Mücke, Ernst P., Isaac Saias, and Binhai Zhu. "Fast randomized point location without preprocessing in two-and three-dimensional Delaunay triangulations." Computational Geometry 12.1-2(1999): 63-83.
 
 License
