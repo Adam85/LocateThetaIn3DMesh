@@ -49,7 +49,7 @@ starting_teta = 1;
 %% Destination Point
 %destination_point = [0.0, 0.0, 0.0];
 
-%% vs_walk: type of walk, 0 - visibility walk, 1 - statistic walk
+%% vs_walk: type of walk, 0 - visibility walk, 1 - stochastic walk
 vs_walk = 2;
 
 %% jump in to the first tetrahedron: jump = 0 (no jump), jump = 1 (selection of starting tetrahedron)
